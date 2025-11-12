@@ -6,7 +6,7 @@ main = "src/index.js"
 [[d1_databases]]
 binding = "DB"
 database_name = "codelabs-db"
-database_id = "6b1662d0-61cd-4c6b-a9d3-c67721a43e1f"
+database_id = "e6fd4ddb-34ed-4ab6-9b4f-5573a123951a"
 
 # 环境变量
 [vars]
